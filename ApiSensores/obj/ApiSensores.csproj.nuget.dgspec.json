@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\DIEGO\\Desktop\\Gil9no\\LMS\\ApiSensores\\ApiSensores.csproj": {}
+    "C:\\Users\\DIEGO\\Desktop\\Gil9no\\LMS\\ApiSensores\\ApiSensores.csproj": {}
   },
   "projects": {
-    "c:\\Users\\DIEGO\\Desktop\\Gil9no\\LMS\\ApiSensores\\ApiSensores.csproj": {
+    "C:\\Users\\DIEGO\\Desktop\\Gil9no\\LMS\\ApiSensores\\ApiSensores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\DIEGO\\Desktop\\Gil9no\\LMS\\ApiSensores\\ApiSensores.csproj",
+        "projectUniqueName": "C:\\Users\\DIEGO\\Desktop\\Gil9no\\LMS\\ApiSensores\\ApiSensores.csproj",
         "projectName": "ApiSensores",
-        "projectPath": "c:\\Users\\DIEGO\\Desktop\\Gil9no\\LMS\\ApiSensores\\ApiSensores.csproj",
+        "projectPath": "C:\\Users\\DIEGO\\Desktop\\Gil9no\\LMS\\ApiSensores\\ApiSensores.csproj",
         "packagesPath": "C:\\Users\\DIEGO\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\DIEGO\\Desktop\\Gil9no\\LMS\\ApiSensores\\obj\\",
+        "outputPath": "C:\\Users\\DIEGO\\Desktop\\Gil9no\\LMS\\ApiSensores\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DIEGO\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -78,20 +78,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-              "version": "[9.0.5, 9.0.5]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Runtime.win-x64",
-              "version": "[9.0.5, 9.0.5]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-              "version": "[9.0.5, 9.0.5]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -101,11 +87,6 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "win-x64": {
-          "#import": []
         }
       }
     }
